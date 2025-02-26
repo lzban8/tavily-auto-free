@@ -1,0 +1,4 @@
+DrissionPage==4.1.0.9
+requests==2.31.0
+python-dotenv==1.0.0
+colorama==0.4.6 
