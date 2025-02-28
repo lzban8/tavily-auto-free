@@ -1,4 +1,17 @@
+# ====== 浏览器自动化相关 ======
+# DrissionPage: 强大的网页自动化工具，支持 Chrome 浏览器控制
 DrissionPage==4.1.0.9
-requests==2.31.0
+
+# ====== 验证码处理相关 ======
+# ddddocr: 高精度 OCR 文字识别库，用于验证码识别
+ddddocr==1.4.10
+# pillow: Python 图像处理库，用于验证码图片处理
+pillow==10.2.0
+
+# ====== 工具库 ======
+# python-dotenv: 用于加载和管理环境变量
 python-dotenv==1.0.0
+# requests: HTTP 请求库，用于与 API 交互
+requests==2.31.0
+# colorama: 终端输出着色工具，优化日志显示
 colorama==0.4.6 
