@@ -2,9 +2,6 @@
 
 这是一个用于自动注册 Tavily API Key 的 Python 工具。它使用 DrissionPage 进行浏览器自动化，支持验证码识别，并能自动保存账号信息。
 
-## 作者
-- GitHub: [FeiGod](https://github.com/FeiGod)
-
 ## 功能特点
 
 - 自动生成随机邮箱和密码
